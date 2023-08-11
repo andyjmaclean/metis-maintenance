@@ -7,7 +7,7 @@
 		}
 	},
 	"sandbox-ui": {
-		"maintenanceMessage": "The site (sandbox) is down"
+		"xxxmaintenanceMessage": "The site (sandbox) is down"
 	},
 	"statistics-dashboard": {
 	}
