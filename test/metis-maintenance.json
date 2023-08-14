@@ -1,15 +1,40 @@
 {
-	"metis-ui": {
+	"metis-ui-test": {
 		"maintenanceMessage": "The site (metis) is down",
 		"period": {
 			"from": "2023-08-11T00:32:52.827Z",
 			"to": "2023-18-11T00:32:52.827Z"
 		}
 	},
-	"sandbox-ui": {
-		"maintenanceMessage": "The site (sandbox) is down",
-		"total": 1
+	"metis-ui-acceptance": {
+		"maintenanceMessage": "The site (metis) is down",
+		"period": {
+			"from": "2023-08-11T00:32:52.827Z",
+			"to": "2023-18-11T00:32:52.827Z"
+		}
 	},
-	"statistics-dashboard": {
-	}
+	"metis-ui-production": {
+		"maintenanceMessage": "The site (metis) is down",
+		"period": {
+			"from": "2023-08-11T00:32:52.827Z",
+			"to": "2023-18-11T00:32:52.827Z"
+		}
+	},
+	"sandbox-ui-test": {
+		"maintenanceMessage": "The site (sandbox test) is down",
+		"period": {
+			"from": "2023-14-11T00:32:52.827Z",
+			"to": "2023-18-11T00:32:52.827Z"
+		}
+
+	},
+	"sandbox-ui-acceptance": {
+		"maintenanceMessage": "The site (sandbox acceptance) is down"
+	},
+	"sandbox-ui-production": {
+		"maintenanceMessage": "The site (sandbox production) is down"
+	},
+	"statistics-dashboard-test": {},
+	"statistics-dashboard-acceptance": {},
+	"statistics-dashboard-production": {}
 }
