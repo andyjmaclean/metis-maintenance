@@ -2,8 +2,8 @@
 	"metis-ui-test": {
 		"maintenanceMessage": "The site (metis) is down",
 		"period": {
-			"from": "2023-08-11T00:32:52.827Z",
-			"to": "2023-18-11T00:32:52.827Z"
+			"from": "1692035297160",
+			"to": "1692135297160"
 		}
 	},
 	"metis-ui-acceptance": {
